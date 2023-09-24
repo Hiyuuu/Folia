@@ -7,6 +7,7 @@ plugins {
     id("io.papermc.paperweight.patcher") version "1.5.5"
 }
 
+
 val paperMavenPublicUrl = "https://repo.papermc.io/repository/maven-public/"
 
 repositories {
